@@ -31,30 +31,35 @@ roadmapAI-main/
 │ ├── index.html
 │ └── vite.config.js
 
-yaml
-Copy code
+
 
 ---
 
 ## 🛠️ Installation & Setup
 
 ### 1️⃣ Clone the repo
-```bash
-git clone https://github.com/yourusername/roadmapAI.git
+
+git clone https://github.com/yourusername/roadmapAI.git 
+
 cd roadmapAI-main
+
+
 2️⃣ Backend Setup
-bash
-Copy code
+
 cd backend
+
 npm install
+
 npm start
+
 This runs the backend server on http://localhost:5000 (or configured port).
 
 3️⃣ Frontend Setup
-bash
-Copy code
+
 cd ../frontend
+
 npm install
+
 npm run dev
 This runs the frontend on http://localhost:5173 (default Vite port).
 
@@ -64,7 +69,7 @@ Backend → Deploy easily on Vercel (uses vercel.json).
 Frontend → Deploy on Netlify or Vercel.
 
 📸 Screenshots
-Add some screenshots here once the UI is ready!
+
 
 🤝 Contributing
 Contributions are welcome! Please fork this repo and submit a pull request.
@@ -72,5 +77,4 @@ Contributions are welcome! Please fork this repo and submit a pull request.
 📜 License
 This project is licensed under the MIT License.
 
-yaml
-Copy code
+
