@@ -39,7 +39,7 @@ roadmapAI-main/
 
 ### 1️⃣ Clone the repo
 
-git clone https://github.com/yourusername/roadmapAI.git 
+git clone https://github.com/Ambrish2408/Roadmap-AI/tree/main
 
 cd roadmapAI-main
 
